@@ -75,7 +75,7 @@ marquee{
               text-shadow: 2px 2px 0 #fff, 4px 4px 0 #000;
  }
  .ticketcard{
-    margin-left: 130px;
+    margin-left: 40px;
  }
  .col-4{
     position: relative;
@@ -335,4 +335,5 @@ marquee{
         }
         .man-text-footer{
             width: 460px;
+
         }
